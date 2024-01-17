@@ -6,8 +6,8 @@ from flask_mail import Mail
 '''EMAIL INFORMATION START'''
 mailSender = None
 JWT_SECRET_KEY='F6f`lVCv`:"~6Ze,e|:Njvl:Z`11(fJtytmx7.1R),$fYctn]6z:(amFx)|dn#@'
-defaultSenderEmail = "DEFAULT_SENDER_EMAIL"
-defaultSenderAppPassword = "DEFAULT_SENDER_APP_PASSWORD"
+defaultSenderEmail = "asltranslatorservice@gmail.com"
+defaultSenderAppPassword = "gcdp tegl engv xbzd"
 '''EMAIL INFORMATION END'''
 
 oneTimeSplash = False
